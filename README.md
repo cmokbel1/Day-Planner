@@ -6,5 +6,5 @@
 
 - anyways. Live link to the website is here: https://cmokbel1.github.io/Day-Planner/
 - have at it!
-
-![image](https://user-images.githubusercontent.com/68614831/142709809-8dced577-d6e7-4901-b283-d1ee955603aa.png)
+- 
+![image](https://user-images.githubusercontent.com/68614831/142718292-99b9289f-8094-48ee-a33f-e2ef1f0c1f7c.png)
