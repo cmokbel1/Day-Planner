@@ -31,20 +31,7 @@ $(".saveBtn").on("click", function () {
 
 function changeColor() {
   console.log('ping')
-  // SET CURRENT HOUR FROM MOMENT FUNCTION / /
-  // var currentHour = moment().format("hh");
-  // console.log(currentHour)
-  // for(let i = 9; i < 17; i++) {
-  //   var myHour = $(".timeslot").attr("data-time");
-  //   console.log(myHour);
-    // if (myHour[i] === currentHour) {
-    //   $(".description").addClass("present")
-    // } else if (myHour[i] < currentHour) {
-    //   $(".description").addClass("past")
-    // } else {
-    //   $(".description").addClass("future")
-    // }
-  // }
+
   $(".container .row").each(function() {
     let currentHour = 12;
     console.log(currentHour)
